@@ -1,0 +1,12 @@
+Version 1.3
+    * Fixes
+
+
+
+Version 1.2
+    * Fixes
+
+
+
+Version 1.1
+    * Fixes
