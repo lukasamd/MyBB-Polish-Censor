@@ -1,1 +1,1 @@
-This plugin add a "view unread posts" function for all registered users - additional search engine option, like a the same function in phpBB3.
+Ten plugin dodaje do bazy cenzora słów ponad 1000 polskich wulgaryzmów i ich odmian
